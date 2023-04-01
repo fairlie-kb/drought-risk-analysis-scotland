@@ -1,4 +1,4 @@
-# drought-risk-analysis-scotland
+# drought-risk-analysis-scotland 
 
 Method detailed in Kirkpatrick Baird, F., Spray, D., Hall, J., and Stubbs Partridge, J. 2023. Projected increases in extreme drought frequency and duration by 2040 affect specialist habitats and species in Scotland. Ecological Solutions and Evidence, and in Kirkpatrick Baird, F., Stubbs Partridge, J. & Spray, D. 2021. Anticipating and mitigating projected climate-driven increases in extreme drought in Scotland, 2021-2040. NatureScot Research Report No. 1228. 
 
@@ -17,3 +17,5 @@ Terminology:
 - Present_late = 2011-2020
 
 Full definitions are available in the paper and report.
+
+DOI:10.5281/zenodo.7791179
