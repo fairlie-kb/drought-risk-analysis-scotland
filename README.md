@@ -2,8 +2,7 @@
 
 Method detailed in Kirkpatrick Baird, F., Spray, D., Hall, J., and Stubbs Partridge, J. 2023. Projected increases in extreme drought frequency and duration by 2040 affect specialist habitats and species in Scotland. Ecological Solutions and Evidence, and in Kirkpatrick Baird, F., Stubbs Partridge, J. & Spray, D. 2021. Anticipating and mitigating projected climate-driven increases in extreme drought in Scotland, 2021-2040. NatureScot Research Report No. 1228. 
 
-Datasets included in this repository are .csv outputs from the analysis. GIS data can be found at NatureScot's Open Data Hub: https://opendata.nature.scot/ 
-All data are available under an Open Government License: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+Datasets included in this repository are .csv outputs from the analysis. GIS data can be found at NatureScot's Open Data Hub: https://opendata.nature.scot/. All data are available under an Open Government License: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/. GIS data can also be requested from data_supply@nature.scot.
 
 Naming convention:
 - Drought change from baseline: change[events/months]_[season]_comb
