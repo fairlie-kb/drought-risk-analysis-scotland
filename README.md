@@ -43,4 +43,4 @@ Terminology:
 
 Full definitions are available in the paper and report.
 
-DOI:10.5281/zenodo.7791179
+[![DOI](https://zenodo.org/badge/622171704.svg)](https://zenodo.org/badge/latestdoi/622171704)
